@@ -16,7 +16,7 @@
   "author": "mesur.io <oss@mesur.io>",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "latest"
+    "@capacitor/core": "^2.4.2"
   },
   "devDependencies": {
     "@capacitor/android": "latest",
